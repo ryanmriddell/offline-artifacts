@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vTLtu278AB95YOruQ+BZ2EdO4xbPTq55/byNlW4/R7fLNmHBT0UDE3WJuIxIwN8RopC0lOl3kbearVJ8RyxxYA==",
+  "success": true,
+  "projectFilePath": "/Users/swadmin/work/devspace/buildpack-build-testing-automation/DotNetCore/DotNetCoreBuildpackTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/swadmin/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.9/microsoft.netcore.app.runtime.linux-x64.6.0.9.nupkg.sha512",
+    "/Users/swadmin/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.9/microsoft.aspnetcore.app.runtime.linux-x64.6.0.9.nupkg.sha512",
+    "/Users/swadmin/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.9/microsoft.netcore.app.host.linux-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ku/ZCEZSwCbYNrr5gjgvh2JToZkQULsF04+7xSSjqnQ=",
+  "Source": "DotNetCoreBuildpackTest",
+  "BasePath": "_content/DotNetCoreBuildpackTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
